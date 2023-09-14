@@ -37,16 +37,18 @@ RSSVGAnimationExamples new example02Miku open.
 MySystemComplexity new example open extent: 900@600
 ```
 
-#
-![bg 85% center](../images/highlightable.png)
+# Roassal Examples (`RSExamplesBrowser`)
 
 #
-![bg 85% center](../images/BarChart.png)
-
-# Roassal Layouts
+![bg 80% center](../images/highlightable.png)
 
 #
-![bg 85% center](../images/Layouts.png)
+![bg 80% center](../images/BarChart.png)
+
+# Roassal Layouts (`RSLayoutStudio`)
+
+#
+![bg 80% center](../images/Layouts.png)
 # Roassal - Main components
 
 - **Canvas**
